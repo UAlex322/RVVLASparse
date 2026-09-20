@@ -1,3 +1,16 @@
+/* 
+*========================================================
+ * Copyright (c) RVVLASparse and Lobachevsky State University of 
+ * Nizhny Novgorod and its affiliates. All rights reserved.
+ * 
+ * Copyright 2024 The RVVLASparse Authors (Evgeny Kozinov)
+ *
+ * Distributed under the MIT License
+ * (See file LICENSE in the root directory of this 
+ * source tree)
+ *========================================================
+ */
+
 #include "sparse_matrix.h"
 
 #include <riscv_vector.h>
