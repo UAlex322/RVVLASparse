@@ -1,10 +1,22 @@
+/* 
+*========================================================
+ * Copyright (c) RVVLASparse and Lobachevsky State University of 
+ * Nizhny Novgorod and its affiliates. All rights reserved.
+ * 
+ * Copyright 2026 The RVVLASparse Authors (Zagriadskov Maksim)
+ *
+ * Distributed under the MIT License
+ * (See file LICENSE in the root directory of this 
+ * source tree)
+ *========================================================
+ */
+
 #pragma once
 #include <iostream>
 #include <cstring>
 #include <vector>
 #include "CRS.h"
 #include <omp.h>
-//#include "convert.h"
 #include <type_traits>
 
 namespace SparseMatrixLib
