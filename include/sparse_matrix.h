@@ -13,5 +13,12 @@
 #pragma once
 
 #include "CRS.h"
-#include "spmv_mtx.h"
 #include "SELL_C_Sigma.h"
+#include "CRS.h"
+#include "CVR.h"
+#include "VNEC.h"
+#include "LAV.h"
+#include "VHCC.h"
+#include "HCSR.h"
+#include "convert.h"
+#include "spmv_mtx.h"

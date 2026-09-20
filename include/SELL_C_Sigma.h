@@ -14,6 +14,7 @@
 #include <iostream>
 #include <cstring>
 #include <vector>
+#include <stdint.h>
 #include "CRS.h"
 
 namespace SparseMatrixLib
