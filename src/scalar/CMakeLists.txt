@@ -1,3 +1,16 @@
+# 
+#========================================================
+# Copyright (c) RVVLASparse and Lobachevsky State University of 
+# Nizhny Novgorod and its affiliates. All rights reserved.
+# 
+# Copyright 2026 The RVVLASparse Authors (Evgeny Kozinov)
+#
+# Distributed under the MIT License
+# (See file LICENSE in the root directory of this 
+# source tree)
+#========================================================
+#
+
 create_project_lib("spMat_${CMAKE_SYSTEM_PROCESSOR}_scalar")
 set_property(TARGET "spMat_${CMAKE_SYSTEM_PROCESSOR}_scalar" PROPERTY POSITION_INDEPENDENT_CODE ON)
 
